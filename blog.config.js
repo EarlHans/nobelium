@@ -1,7 +1,7 @@
 const BLOG = {
   title: 'Blog',
   author: 'Earl Hans',
-  email: 'i@craigary.net',
+  email: 'yhx2356667875@gmail.com',
   link: 'https://nobelium.vercel.app',
   description: '努力 加油 👨‍🦽',
   lang: 'en-US',
